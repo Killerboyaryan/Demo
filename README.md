@@ -1,3 +1,4 @@
 # Demo
-Learning About Git.\n
+Learning About Git.
+<br>
 Author - Aryan Mhatre.
